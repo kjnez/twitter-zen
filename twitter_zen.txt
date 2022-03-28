@@ -10,3 +10,4 @@ twitter.com#?#div:-abp-has(> div > section > h1:-abp-contains(Carousel))
 twitter.com#?#div:-abp-has(> div > a[href^="/i/topics"])
 twitter.com#?#div:-abp-has(> div > section > h1:-abp-contains(Trending now))
 twitter.com#?#div:-abp-has(> aside[aria-label="Who to follow"])
+twitter.com##div > aside[aria-label="Relevant people"]
